@@ -2,7 +2,7 @@
 .appVersion = "1126";
 DisplayStrings = (
 "Dan Reynolds, Bonnie Wagner, Otto August & Laika the dog",
-"/ncaron n"
+"/ncaron nN/Ncaron"
 );
 classes = (
 {
@@ -5825,7 +5825,7 @@ width = 819;
 },
 {
 glyphname = Ncaron;
-lastChange = "2018-01-22 13:24:28 +0000";
+lastChange = "2018-04-04 11:43:11 +0000";
 layers = (
 {
 components = (
@@ -5833,8 +5833,8 @@ components = (
 name = N;
 },
 {
-name = caron.alt;
-transform = "{1, 0, 0, 1, -125, 223}";
+name = caron.cap;
+transform = "{1, 0, 0, 1, 85, 0}";
 }
 );
 layerId = "BE6E37CB-569E-4B40-A59A-BD6EE6EB60D7";
@@ -5846,8 +5846,8 @@ components = (
 name = N;
 },
 {
-name = caron.alt;
-transform = "{1, 0, 0, 1, -132, 220}";
+name = caron.cap;
+transform = "{1, 0, 0, 1, -12, 0}";
 }
 );
 layerId = "817DDDC7-9D97-429D-9F3D-5ABA58537E71";
@@ -20538,7 +20538,7 @@ width = 692;
 },
 {
 glyphname = ncaron;
-lastChange = "2018-04-03 18:50:33 +0000";
+lastChange = "2018-04-04 11:42:47 +0000";
 layers = (
 {
 components = (
